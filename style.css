@@ -1,0 +1,24 @@
+.slider {
+    height: 600px;
+}
+
+.carousel-prev,
+.carousel-next {
+    top: 50%;
+    margin-top: -30px;
+    z-index: 500;
+}
+
+.carousel-prev {
+    left: 40px;
+}
+
+
+.carousel-next {
+    right: 40px;
+}
+
+.slider-footer {
+    bottom: -60px;
+    left: 15%;
+}
